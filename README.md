@@ -37,6 +37,6 @@ pip install -r requirements.txt
 
 This project illustrates the deployment of a machine learning model on AWS SageMaker, underscoring the significance of deploying models in real-world scenarios. For a detailed guide, refer to the provided notebook.
 
-References:
+**References:**
 
 - **Video Tutorial:** [“Implementing an End-to-end Machine Learning Project Using AWS SageMaker”](https://www.youtube.com/watch?v=Le-A72NjaWs&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG&index=17) (Duration: 3 hours)
